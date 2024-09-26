@@ -1,0 +1,4 @@
+Downloaded from :
+https://wxs.ign.fr/topographie/geoportail/wfs?SERVICE=WFS&VERSION=2.0.0&request=GetFeature&OUTPUTFORMAT=application/json&typename=BDTOPO_V3:cours_d_eau&CQL_FILTER=toponyme%20ilike%20%27la%20Loire%27
+
+Just in case the service in not available during the Lab
