@@ -1,0 +1,6 @@
+Source : https://geoservices.ign.fr/route500#telechargement
+
+2021 Edition
+
+Subset (Highway, National roads) extracted to reduce the weight of the dataset
+(Original Dataset : 167Mo zipped)
